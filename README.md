@@ -1,4 +1,4 @@
-# OneLife (The Bubble)
+# finite (The Bubble)
 
 A life management and legacy application based on the philosophy of Memento Mori.
 
